@@ -1,2 +1,2 @@
-# Deep_Embedding_Clustering
+# Deep_Embedding_Clustering on HPC dataset
 Deep Clustering 
